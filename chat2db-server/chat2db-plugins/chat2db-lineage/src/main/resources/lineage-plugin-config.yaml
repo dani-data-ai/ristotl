@@ -1,0 +1,6 @@
+lineage:
+  enabled: true
+  analysisMode: "STATIC"
+  maxDepth: 5
+  cacheResults: true
+  logging: "INFO"
